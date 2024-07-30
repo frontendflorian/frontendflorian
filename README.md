@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @frontendflorian
-- 👀 I’m interested in Angular / Cypress / Web Development
-- 🌱 I’m currently learning component testing with component harnesses
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me: @frontendflorian on twitter 🐦
+- 👀 I’m interested in Angular / Web Development and Testing
 
 <!---
 frontendflorian/frontendflorian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
